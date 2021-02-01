@@ -83,7 +83,7 @@ COMPLETED       - Succeeded
   
 **Step 9. AWS Management Console>CloudWatch> Goto Metrics and validate metrices**
 
-# End of Lab
+### End of Lab
 
 
 
@@ -131,7 +131,7 @@ Click on Cancel & than click on Discard
 - Click on latest time logstream
 - see the log events
 
-# End of Lab
+### End of Lab
 
 # AWS CodeBuild : Build Sample App from S3- Lab
 
@@ -214,7 +214,7 @@ COMPLETED
 **Step 9. Now Goto S3>sample-node-app-amit>devbuild/>cb-project-s3**
 - See the details
 
-# End of Lab
+### End of Lab
 
 # Create EC2 Instance for AWS CodeDeploy - Lab
 
@@ -272,7 +272,7 @@ $ sudo service codedeploy-agent status
 ```
 
 
-# End of lab
+### End of lab
 
 # Deploying Sample App on Single EC2 : Part 1 - Lab
 
@@ -345,7 +345,7 @@ $ git push
 **Step 14. Goto AWS Console>All services>Code Commit>Repositories>Sample-Node-App**
 - See that the appsec.yml file has been copied
 
-# End Of lab
+### End Of lab
      
 
 
@@ -462,7 +462,7 @@ Deployment has been done successfully
 **Step 8.Goto Ec2 Dashboard>copy Public Ip>Paste in Browser e.g 13.222.158.20:3000**
 - See the Application Running
 
-# End of Lab
+### End of Lab
 
 
 # Validate CodeDeploy files/concepts on EC2 Server -Lab
@@ -488,7 +488,7 @@ $ ls
 $ cd /home/ec2-user
 $ ls
 ```
-# End of lab
+### End of lab
 
 # CodeDeploy Deployment on Auto Scaling - Lab
 
@@ -606,7 +606,7 @@ Click on Update
 **Step 23.Click the new Instance and copy & paste the Public IP address in browser to see it running**
 - e.g.-13.222.125.52:3000
 
-# End of lab
+### End of lab
 
 
 
@@ -723,7 +723,7 @@ AfterAllowTraffic
 **Step 18.Open DNS of load balancer in Browser**
 - See that it is serving the traffic
 
-# End of Lab
+### End of Lab
 
 
 # CodeDeploy Blue Green Deployment - Lab
@@ -830,7 +830,7 @@ Traffic shifting process
 - Original - 0
 - Replacement - 2
 
-# End of lab
+### End of lab
 
 
 # Codedeploy Deployment Configuration - Lab
@@ -908,7 +908,7 @@ Click on Create deployment
 
 **Step 17.Check the DNS of load balancer and refresh 4 times**
  
-# End of lab
+### End of lab
 
 
 
