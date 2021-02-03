@@ -334,6 +334,7 @@ Click on Create deployment group
 - Deployment Failed - Due to No Appsec.yml file
 
 **Step 13.Open terminal in Visual Studio Code**
+
 Run the following commands:
 ```sh
 $ cp ../appsec.yml .
@@ -858,6 +859,7 @@ $ git push
 ```
 
 **Step 5. Developers Tools>CodeBuild>Build projects>first-cd-project**
+
 Click on Retry Build
 
 **Step 6.Goto S3>sample-node-app-amit>devbuild/>first-cd-project**
